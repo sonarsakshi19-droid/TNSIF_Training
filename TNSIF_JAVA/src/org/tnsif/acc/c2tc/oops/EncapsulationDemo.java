@@ -22,7 +22,7 @@ class Human {
 
 }
 
-public class EncapsulationDemo { // controlled access
+public class EncapsulationDemo { // controlled access no need to create multiple objects here
 
 	public static void main(String[] args) {
 		Human obj = new Human();
