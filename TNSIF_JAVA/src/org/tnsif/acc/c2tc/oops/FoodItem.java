@@ -12,6 +12,7 @@ public class FoodItem {
 		System.out.println("Food Name:" + name);
 		System.out.println("Price:" + price);
 		System.out.println("Category:" + category);
+		System.out.println("----");
 	}
 
 	public static void main(String[] args) {
