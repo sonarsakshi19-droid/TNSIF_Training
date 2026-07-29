@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.methodoverrding;
+package org.tnsif.acc.c2tc.methodoverriding;
 
 class Payment {
 	void makePayment() {
@@ -30,22 +30,26 @@ class WalletPayment extends Payment {
 public class PaymentTest {
 
 	public static void main(String[] args) {
-Payment payment; //reference parent class
-		
-		payment=new UpiPayment();
+		Payment payment; // reference parent class
+
+		payment = new UpiPayment();
 		payment.makePayment();
-		
-		payment=new CardPayment();
+
+		payment = new CardPayment();
 		payment.makePayment();
-		
-		
-		payment=new WalletPayment();
+
+		payment = new WalletPayment();
 		payment.makePayment();
-		
-		
 
 	}
 
 }
+
+public class PaymentTest {
+
+	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+	}
+
+}
