@@ -10,7 +10,7 @@ public class ScannerClassDemo {
 		System.out.println("Enter your age");
 		int age = sc.nextInt();
 		System.out.println("Name of the user:" + name);
-		System.out.println("AGe of the user:" + age);
+		System.out.println("Age of the user:" + age);
 		sc.close();// TODO Auto-generated method stub
 
 	}
