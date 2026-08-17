@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.JavaInterview;
+package org.tnsif.acc.c2tc.JavaInterviewBasics;
 
 import java.util.Scanner;
 public class DuplicateArray {
