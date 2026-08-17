@@ -1,5 +1,4 @@
 package org.nsif.acc.c2tc.exceptionhandling;
-
 import java.io.IOException;
 
 public class ThrowsDemo {
