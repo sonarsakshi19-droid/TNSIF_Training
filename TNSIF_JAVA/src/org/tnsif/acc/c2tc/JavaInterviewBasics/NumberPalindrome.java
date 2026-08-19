@@ -19,8 +19,6 @@ public class NumberPalindrome {
 			System.out.println("Number is not palindrome");
 		}
 
-
-
 	}
 
 }
