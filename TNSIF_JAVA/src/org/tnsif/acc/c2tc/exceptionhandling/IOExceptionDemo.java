@@ -1,4 +1,4 @@
-package org.nsif.acc.c2tc.exceptionhandling;
+package org.tnsif.acc.c2tc.exceptionhandling;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
